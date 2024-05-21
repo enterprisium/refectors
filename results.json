@@ -1,0 +1,1125 @@
+{
+  "audio": [
+    {
+      "name": "audio_1.mp3",
+      "props": { "startFrom": 0, "endAt": 48.6, "duration": 1.62 },
+      "start": 0,
+      "end": 1.62,
+      "duration": 77,
+      "type": "audio"
+    },
+    {
+      "name": "audio_1.mp3",
+      "props": {
+        "startFrom": 48.6,
+        "endAt": 2261.3999999999996,
+        "duration": 77
+      },
+      "start": 3.62,
+      "end": 7.24,
+      "duration": 77,
+      "type": "audio"
+    }
+  ],
+  "video": [
+    {
+      "type": "broll",
+      "name": "broll_1.mp4",
+      "props": { "startFrom": 0, "endAt": 60, "duration": 2 },
+      "start": 1.62,
+      "end": 3.62,
+      "duration": 2
+    }
+  ],
+  "text": [
+    { "end": 0.4, "text": " This", "start": 0, "type": "text" },
+    { "end": 0.68, "text": " man", "start": 0.4, "type": "text" },
+    { "end": 1, "text": " is", "start": 0.68, "type": "text" },
+    { "end": 1.62, "text": " captivating,", "start": 1, "type": "text" },
+    {
+      "end": 4.74,
+      "text": " embodying",
+      "start": 4.12,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 5.08,
+      "text": " the",
+      "start": 4.74,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 5.32,
+      "text": " essence",
+      "start": 5.08,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 5.54,
+      "text": " of",
+      "start": 5.32,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 5.9399999999999995,
+      "text": " devotion",
+      "start": 5.54,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 6.36,
+      "text": " and",
+      "start": 5.9399999999999995,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 6.96,
+      "text": " controversy.",
+      "start": 6.36,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 8.04,
+      "text": " As",
+      "start": 7.82,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 8.46,
+      "text": " Akshai",
+      "start": 8.04,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 8.84,
+      "text": " Kumar",
+      "start": 8.46,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 9.52,
+      "text": " transforms",
+      "start": 8.84,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 9.96,
+      "text": " into",
+      "start": 9.52,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 10.5,
+      "text": " Kanti",
+      "start": 9.96,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 10.88,
+      "text": "-sharan",
+      "start": 10.5,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 11.46,
+      "text": " mudgol,",
+      "start": 10.88,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 12.1,
+      "text": " a",
+      "start": 11.96,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 12.5,
+      "text": " devoted",
+      "start": 12.1,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 12.94,
+      "text": " Hindu",
+      "start": 12.5,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 13.56,
+      "text": " entangled",
+      "start": 12.94,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 13.86,
+      "text": " in",
+      "start": 13.56,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 13.98,
+      "text": " a",
+      "start": 13.86,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 14.1,
+      "text": " web",
+      "start": 13.98,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 14.38,
+      "text": " of",
+      "start": 14.1,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 14.94,
+      "text": " accusations,",
+      "start": 14.38,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 15.96,
+      "text": " the",
+      "start": 15.78,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 16.28,
+      "text": " audience",
+      "start": 15.96,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 16.58,
+      "text": " is",
+      "start": 16.28,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 16.78,
+      "text": " left",
+      "start": 16.58,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 17.4,
+      "text": " pondering.",
+      "start": 16.78,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 18.48,
+      "text": " What",
+      "start": 18.3,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 18.72,
+      "text": " would",
+      "start": 18.48,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 18.86,
+      "text": " you",
+      "start": 18.72,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 19.26,
+      "text": " do",
+      "start": 18.86,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 19.58,
+      "text": " if",
+      "start": 19.26,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 19.9,
+      "text": " faced",
+      "start": 19.58,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 20.16,
+      "text": " with",
+      "start": 19.9,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 20.3,
+      "text": " a",
+      "start": 20.16,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 20.8,
+      "text": " wrongful",
+      "start": 20.3,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 21.22,
+      "text": " scandal",
+      "start": 20.8,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 21.54,
+      "text": " that",
+      "start": 21.22,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 21.82,
+      "text": " jupar",
+      "start": 21.54,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 22.1,
+      "text": " dies",
+      "start": 21.82,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 22.3,
+      "text": " as",
+      "start": 22.1,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 22.46,
+      "text": " your",
+      "start": 22.3,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 22.9,
+      "text": " family?",
+      "start": 22.46,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 23.66,
+      "text": " Brace",
+      "start": 23.46,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 24.06,
+      "text": " yourself",
+      "start": 23.66,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 24.36,
+      "text": " as",
+      "start": 24.06,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 24.52,
+      "text": " for",
+      "start": 24.36,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 24.64,
+      "text": " a",
+      "start": 24.52,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 24.9,
+      "text": " thrilling",
+      "start": 24.64,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 25.32,
+      "text": " journey",
+      "start": 24.9,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 25.6,
+      "text": " as",
+      "start": 25.32,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 26,
+      "text": " Kanti",
+      "start": 25.6,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 26.28,
+      "text": " fights",
+      "start": 26,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 26.68,
+      "text": " against",
+      "start": 26.28,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 27.36,
+      "text": " injustice,",
+      "start": 26.68,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 28.12,
+      "text": " navigating",
+      "start": 27.96,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 28.56,
+      "text": " a",
+      "start": 28.12,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 28.78,
+      "text": " world",
+      "start": 28.56,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 29.02,
+      "text": " where",
+      "start": 28.78,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 29.26,
+      "text": " his",
+      "start": 29.02,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 29.5,
+      "text": " son",
+      "start": 29.26,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 29.76,
+      "text": " is",
+      "start": 29.5,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 30.18,
+      "text": " wrongly",
+      "start": 29.76,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 30.48,
+      "text": " accused",
+      "start": 30.18,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 30.72,
+      "text": " of",
+      "start": 30.48,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 31.04,
+      "text": " immoral",
+      "start": 30.72,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 31.52,
+      "text": " conduct.",
+      "start": 31.04,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 32.2,
+      "text": " The",
+      "start": 31.52,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 32.6,
+      "text": " film,",
+      "start": 32.2,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 32.96,
+      "text": " a",
+      "start": 32.739999999999995,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 33.22,
+      "text": " sequel",
+      "start": 32.96,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 33.54,
+      "text": " to",
+      "start": 33.22,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 33.64,
+      "text": " the",
+      "start": 33.54,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 34.32,
+      "text": " 2012",
+      "start": 33.64,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 34.78,
+      "text": " hit",
+      "start": 34.32,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 35.66,
+      "text": " OMG.",
+      "start": 34.78,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 36.3,
+      "text": " Oh",
+      "start": 36.18,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 36.52,
+      "text": " my",
+      "start": 36.3,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 37.12,
+      "text": " god,",
+      "start": 36.52,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 37.82,
+      "text": " delves",
+      "start": 37.54,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 38.1,
+      "text": " into",
+      "start": 37.82,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 38.36,
+      "text": " the",
+      "start": 38.1,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 38.58,
+      "text": " realms",
+      "start": 38.36,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 38.84,
+      "text": " of",
+      "start": 38.58,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 39.1,
+      "text": " sex",
+      "start": 38.84,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 39.74,
+      "text": " education,",
+      "start": 39.1,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 40.6,
+      "text": " starring",
+      "start": 40.36,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 41,
+      "text": " not",
+      "start": 40.6,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 41.32,
+      "text": " only",
+      "start": 41,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 41.76,
+      "text": " Akshai",
+      "start": 41.32,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 42.16,
+      "text": " Kumar,",
+      "start": 41.76,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 42.72,
+      "text": " but",
+      "start": 42.58,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 42.94,
+      "text": " also",
+      "start": 42.72,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 43.12,
+      "text": " the",
+      "start": 42.94,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 43.68,
+      "text": " powerhouse",
+      "start": 43.12,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 44.24,
+      "text": " performer,",
+      "start": 43.68,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 45.18,
+      "text": " Pankaj",
+      "start": 44.62,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 45.98,
+      "text": " Tripathi.",
+      "start": 45.18,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 46.88,
+      "text": " How",
+      "start": 46.78,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 47.04,
+      "text": " would",
+      "start": 46.88,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 47.22,
+      "text": " you",
+      "start": 47.04,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 47.54,
+      "text": " react",
+      "start": 47.22,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 47.76,
+      "text": " when",
+      "start": 47.54,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 47.92,
+      "text": " the",
+      "start": 47.76,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 48.38,
+      "text": " protagonist,",
+      "start": 47.92,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 49.02,
+      "text": " a",
+      "start": 48.94,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 49.38,
+      "text": " messenger",
+      "start": 49.02,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 49.68,
+      "text": " of",
+      "start": 49.38,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 49.92,
+      "text": " Lord",
+      "start": 49.68,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 50.26,
+      "text": " Shiva,",
+      "start": 49.92,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 51.06,
+      "text": " faces",
+      "start": 50.76,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 51.88,
+      "text": " 27",
+      "start": 51.06,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 52.56,
+      "text": " suggested",
+      "start": 51.88,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 53.16,
+      "text": " cuts",
+      "start": 52.56,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 53.56,
+      "text": " by",
+      "start": 53.16,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 61.5,
+      "text": " the",
+      "start": 53.56,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 61.94,
+      "text": " actions",
+      "start": 61.5,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 62.32,
+      "text": " from",
+      "start": 61.94,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 62.7,
+      "text": " fans",
+      "start": 62.32,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 63,
+      "text": " and",
+      "start": 62.7,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 63.26,
+      "text": " critics",
+      "start": 63,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 63.92,
+      "text": " alike?",
+      "start": 63.26,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 64.8,
+      "text": " Subscribe",
+      "start": 64.0,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 65.18,
+      "text": " now",
+      "start": 64.8,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 65.32,
+      "text": " to",
+      "start": 65.18,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 65.64,
+      "text": " witness",
+      "start": 65.32,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 65.94,
+      "text": " the",
+      "start": 65.64,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 66.28,
+      "text": " drama,",
+      "start": 65.94,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 66.9,
+      "text": " emotion",
+      "start": 66.5,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 67.32,
+      "text": " and",
+      "start": 66.9,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 67.82,
+      "text": " entertainment",
+      "start": 67.32,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 68.58,
+      "text": " unfold",
+      "start": 67.82,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 69.28,
+      "text": " in",
+      "start": 68.58,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 70.62,
+      "text": " OMG2.",
+      "start": 69.28,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 71.22,
+      "text": " Will",
+      "start": 71.18,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 71.78,
+      "text": " Kanti",
+      "start": 71.22,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 72.1,
+      "text": "-sharan",
+      "start": 71.78,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 72.6,
+      "text": " mudgol",
+      "start": 72.1,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 73.12,
+      "text": " triumph",
+      "start": 72.6,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 73.5,
+      "text": " over",
+      "start": 73.12,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 74.06,
+      "text": " adversity?",
+      "start": 73.5,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 75.08,
+      "text": " Subscribe",
+      "start": 74.74,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 75.3,
+      "text": " to",
+      "start": 75.08,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 75.58,
+      "text": " find",
+      "start": 75.3,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 75.92,
+      "text": " out",
+      "start": 75.58,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 76.06,
+      "text": " and",
+      "start": 75.92,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 76.3,
+      "text": " join",
+      "start": 76.06,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 76.58,
+      "text": " the",
+      "start": 76.3,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 77.04,
+      "text": " conversation",
+      "start": 76.58,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 77.52,
+      "text": " around",
+      "start": 77.04,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 77.78,
+      "text": " this",
+      "start": 77.52,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 78.3,
+      "text": " sensational",
+      "start": 77.78,
+      "type": "text",
+      "edited": true
+    },
+    {
+      "end": 78.94,
+      "text": " film.",
+      "start": 78.3,
+      "type": "text",
+      "edited": true
+    }
+  ]
+}

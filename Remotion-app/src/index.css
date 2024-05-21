@@ -1,0 +1,224 @@
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:700);
+
+.Winning {
+  text-align: center;
+  position: relative;
+}
+
+.Winning-text1::after {
+  color: red;
+  content: attr(data-text);
+  position: absolute;
+  text-align: center;
+  margin: auto;
+  -webkit-text-stroke: 0.15em #d9a3ff;
+  top: 0;
+  /* left: 0; */
+  z-index: 0;
+  font-size: 1em;
+  font-size: 35vw;
+  line-height: 100vh;
+  /* font-family: 'Roboto Slab', serif; */
+  font-weight: 700;
+}
+
+.Winning-text {
+  color: #000;
+  /* display: inline-block; */
+  font-size: 25vw;
+  line-height: 100vh;
+  font-family: 'Roboto Slab', serif;
+  /* -webkit-text-stroke: 0.15em #d9a3ff; */
+  font-weight: 700;
+
+  letter-spacing: -0.05em;
+  -webkit-text-stroke:10px #aa5ed3;
+
+  background: -webkit-gradient(
+    left top,
+    left bottom,
+    color-stop(0%, rgba(128, 128, 128, 1)),
+    color-stop(58%, rgba(59, 50, 50, 1)),
+    color-stop(100%, rgba(59, 50, 50, 1))
+  );
+  background: -webkit-linear-gradient(
+    top,
+    rgba(128, 128, 128, 1) 0%,
+    rgba(59, 50, 50, 1) 58%,
+    rgba(59, 50, 50, 1) 100%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+.shake {
+  animation: shake 0.5s; 
+  animation-iteration-count: infinite; 
+}
+       
+@keyframes panZoom {
+  0% { transform: scale(1) translate(0, 0); }
+  50% { transform: scale(1.2) translate(10px, 10px); }
+  100% { transform: scale(1) translate(0, 0); }
+}
+
+.panZoom {
+  animation: panZoom 5s ease-in-out infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+@keyframes zoomInOut {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.5); }
+  100% { transform: scale(1); }
+}
+
+.zoomInOut {
+  animation: zoomInOut 5s ease-in-out infinite;
+}
+
+/* .shake {
+  animation: shake 0.5s; 
+  animation-iteration-count: infinite; 
+} */
+
+@keyframes zoomInOut {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.5); }
+  100% { transform: scale(1); }
+}
+
+.zoomInOut {
+  animation: zoomInOut 5s ease-in-out infinite;
+}
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+@layer base {
+  :root {
+    /* Name: custom color palette
+       Author: Ilias Ism
+       URL: https://gradient.page */
+
+    /* CSS: .bg-gradient { background: var(--gradient) } */
+    --gradient: url('https://gradient.page/samples/vibrant-vista/vibrant-vista-002.jpg');
+
+    --background: 210 26% 7.84%;
+    --foreground: 210 4% 99.9%;
+
+    --muted: 210 20% 29.4%;
+    --muted-foreground: 210 4% 59.8%;
+
+    --popover: 210 57% 12.74%;
+    --popover-foreground: 210 4% 99.9%;
+
+    --card: 210 57% 12.74%;
+    --card-foreground: 210 4% 99.9%;
+
+    --border: 210 20% 29.4%;
+    --input: 210 20% 29.4%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 210 4% 9.8%;
+
+    --secondary: 210 20% 29.4%;
+    --secondary-foreground: 210 4% 99.9%;
+
+    --accent: 210 20% 29.4%;
+    --accent-foreground: 210 4% 99.9%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 4% 99.9%;
+
+    --ring: 210 40% 98%;
+  }
+
+
+  .dark {
+    --background: 224 71% 4%;
+    --foreground: 213 31% 91%;
+
+    --muted: 223 47% 11%;
+    --muted-foreground: 215.4 16.3% 56.9%;
+
+    --accent: 216 34% 17%;
+    --accent-foreground: 210 40% 98%;
+
+    --popover: 224 71% 4%;
+    --popover-foreground: 215 20.2% 65.1%;
+
+    --border: 216 34% 17%;
+    --input: 216 34% 17%;
+
+    --card: 224 71% 4%;
+    --card-foreground: 213 31% 91%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 1.2%;
+
+    --secondary: 222.2 47.4% 11.2%;
+    --secondary-foreground: 210 40% 98%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    --ring: 216 34% 17%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
